@@ -1,0 +1,6 @@
+************* Module inventory_system
+inventory_system.py:37:0: C0301: Line too long (104/100) (line-too-long)
+inventory_system.py:14:4: W0107: Unnecessary pass statement (unnecessary-pass)
+
+------------------------------------------------------------------
+Your code has been rated at 9.64/10 (previous run: 6.07/10, +3.57)
